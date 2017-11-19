@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^20.0.4"
+    "jest": "^21.2.1"
   },
   "dependencies": {
-    "redux-saga": "^0.15.6"
+    "redux-saga": "^0.16.0"
   }
 }
